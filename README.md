@@ -1,5 +1,5 @@
 
-## 👨‍💻 Desafio Front end Movisis
+## 👨‍💻 Desafio Front end 
 
 ## 📋 Descrição
 O desafio consiste em construir um site modelo E-commerce que permita o gerenciamento de produtos e realize um processo de checkout simples.
@@ -15,15 +15,15 @@ Siga os passos abaixo para instalar e configurar a aplicação em um ambiente lo
 
 📥 Clone o repositório:
 
-    - git clone https://github.com/LeonardoAlbano/movisis-desafio.git
+    - git clone https://github.com/LeonardoAlbano/albano-race-parts-web.git
     ou a CLI 
 
-    gh repo clone git@github.com:LeonardoAlbano/movisis-desafio.git
+    gh repo clone git@github.com:LeonardoAlbano/albano-race-parts-web.git
 
 
 📂 Navegue para o diretório do projeto:
 
-    cd. /movisis-desafio
+    cd. /albano-race-parts-web
 
 📦 Instale as dependências:
 
